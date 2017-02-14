@@ -1,0 +1,145 @@
+.foo {
+  float: left;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  /*margin: 5px;*/
+/*  border: 1px solid rgba(0, 0, 0, .2);*/
+}
+
+.blue {
+  background: #13b4ff;
+}
+
+.grey {
+  background: #C7C7C7;
+}
+
+.green {
+  background: #008000;
+}
+
+.wine {
+  background: #ae163e;
+}
+
+.yellow {
+    background: #ffff1a;
+}
+
+.orange {
+    background: #e68a00;
+}
+
+/*.firstcol {
+  border-right: 1px solid #e6e6e6;
+}
+.lastcol {
+  border-left: 1px solid #e6e6e6;
+}*/
+
+#redFilledCircle {
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: red;
+}
+
+#greenFilledCircle {
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: green;
+}
+
+#yellowFilledCircle {
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: yellow;
+}
+
+#orangeFilledCircle {
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: orange;
+}
+
+#greyFilledCircle {
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: #C7C7C7;
+}
+
+#ordersTable table thead {
+  background-color: #e6e6e6;
+}
+#ordersTable thead {
+  background-color: #e6e6e6;
+}
+
+#myTable table thead {
+  background-color: #e6e6e6;
+}
+#myTable thead {
+  background-color: #e6e6e6;
+}
+
+#tasksTable table thead {
+  background-color: #e6e6e6;
+}
+#tasksTable thead {
+  background-color: #e6e6e6;
+}
+
+#shippingTable table thead {
+  background-color: #e6e6e6;
+}
+#shippingTable thead {
+  background-color: #e6e6e6;
+}
+
+.paging_full_numbers .ui-button {
+  padding: 2px 6px;
+  margin: 0;
+  cursor: pointer;
+  * cursor: hand;
+}
+
+.glyphic-red{
+  color:red;
+}
+
+.glyphic-green{
+  color:green;
+}
+
+.glyphic-cadetblue{
+    color:blue;
+}
+
+.highlight {
+   background-color: #a8cb17;
+}
+
+.navbar-brand {
+  font-size: 36px;
+  font-weight: bolder; 
+}
+
+#side-menu li{
+  font-size: 18px;
+  font-weight: bold;
+}
